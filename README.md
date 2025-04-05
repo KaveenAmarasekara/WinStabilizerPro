@@ -8,7 +8,7 @@ WinStabilizerPro is a desktop application for video stabilization. It is built u
 - Works with multiple video formats.
 
 ## Installation
-1. Download the latest `.exe` from the [releases](https://github.com/yourusername/WinStabilizerPro/releases).
+1. Download the latest `.exe` from the [releases](https://github.com/KaveenAmarasekara/WinStabilizerPro/releases).
 2. Run the `.exe` file to install and start the application.
 
 ## License
